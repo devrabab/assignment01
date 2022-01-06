@@ -1,0 +1,175 @@
+body {
+  margin: 0%;
+}
+.first-parent {
+  display: flex;
+}
+.first-left {
+  width: 60%;
+  padding: 10% 5%;
+}
+.blue-color {
+  color: #0096ff;
+}
+.first-btn {
+  background-color: #0096ff;
+  border-radius: 5px;
+  border: none;
+  padding: 15px 40px;
+  color: white;
+  cursor: pointer;
+}
+.first-btn:hover {
+  background-color: #0047ab;
+}
+.first-right {
+  width: 40%;
+  padding-right: 5%;
+}
+.first-right img {
+  width: 100%;
+}
+.second-section {
+  padding: 5%;
+}
+.second-title {
+  text-align: center;
+}
+.blue-color1 {
+  color: #0096ff;
+  text-align: center;
+}
+.second-parent {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+#second-img img {
+  width: 150px;
+}
+.mission-box {
+  background-color: #f0ffff;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px #add8e6;
+  padding-left: 10px;
+  width: 30%;
+}
+.vision-box {
+  background-color: #f0ffff;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px #add8e6;
+  padding-left: 10px;
+  width: 30%;
+}
+.goals-box {
+  background-color: #f0ffff;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px #add8e6;
+  padding-left: 10px;
+  width: 30%;
+}
+
+.third-parent {
+  display: flex;
+}
+.third-left {
+  width: 40%;
+  padding: 5% 5%;
+}
+.third-left img {
+  width: 100%;
+}
+.third-right {
+  width: 60%;
+  padding-top: 100px;
+  padding: 10% 5%;
+}
+.third-btn {
+  background-color: #0096ff;
+  border-radius: 5px;
+  border: none;
+  padding: 15px 40px;
+  color: white;
+  cursor: pointer;
+}
+.third-btn:hover {
+  background-color: #0047ab;
+}
+.forth-title {
+  text-align: center;
+}
+.blue-color2 {
+  color: #0096ff;
+}
+
+.forth-parent {
+  display: flex;
+}
+.forth-right {
+  width: 40%;
+  padding: 5% 5%;
+}
+.forth-right img {
+  width: 100%;
+}
+.forth-left {
+  width: 60%;
+  padding-top: 100px;
+  padding: 10% 5%;
+}
+.forth-btn {
+  background-color: #0096ff;
+  border-radius: 5px;
+  border: none;
+  padding: 15px 40px;
+  color: white;
+  cursor: pointer;
+}
+.forth-btn:hover {
+  background-color: #0047ab;
+}
+
+.fifth-title {
+  text-align: center;
+}
+.fifth-parent {
+  display: flex;
+}
+.fifth-left {
+  width: 40%;
+  padding: 5% 5%;
+}
+.fifth-left img {
+  width: 100%;
+}
+.fifth-right {
+  width: 60%;
+  padding-top: 100px;
+  padding: 20% 5%;
+}
+.blue-color3 {
+  color: #0096ff;
+}
+.fifth-btn {
+  background-color: #0096ff;
+  border-radius: 5px;
+  border: none;
+  padding: 15px 40px;
+  color: white;
+  cursor: pointer;
+}
+.fifth-btn:hover {
+  background-color: #0047ab;
+}
+.last-section {
+  background-color: black;
+  padding: 2% 5%;
+}
+.last-section h3 {
+  text-align: center;
+  color: white;
+}
+.last-section p {
+  text-align: center;
+  color: white;
+}
